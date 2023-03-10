@@ -1,0 +1,13 @@
+C:\Users\bobby.henderson\source\repos\Operators_Henderson_Bobby\bin\Debug\netcoreapp3.1\Operators_Henderson_Bobby.exe
+C:\Users\bobby.henderson\source\repos\Operators_Henderson_Bobby\bin\Debug\netcoreapp3.1\Operators_Henderson_Bobby.deps.json
+C:\Users\bobby.henderson\source\repos\Operators_Henderson_Bobby\bin\Debug\netcoreapp3.1\Operators_Henderson_Bobby.runtimeconfig.json
+C:\Users\bobby.henderson\source\repos\Operators_Henderson_Bobby\bin\Debug\netcoreapp3.1\Operators_Henderson_Bobby.runtimeconfig.dev.json
+C:\Users\bobby.henderson\source\repos\Operators_Henderson_Bobby\bin\Debug\netcoreapp3.1\Operators_Henderson_Bobby.dll
+C:\Users\bobby.henderson\source\repos\Operators_Henderson_Bobby\bin\Debug\netcoreapp3.1\Operators_Henderson_Bobby.pdb
+C:\Users\bobby.henderson\source\repos\Operators_Henderson_Bobby\obj\Debug\netcoreapp3.1\Operators_Henderson_Bobby.csproj.AssemblyReference.cache
+C:\Users\bobby.henderson\source\repos\Operators_Henderson_Bobby\obj\Debug\netcoreapp3.1\Operators_Henderson_Bobby.AssemblyInfoInputs.cache
+C:\Users\bobby.henderson\source\repos\Operators_Henderson_Bobby\obj\Debug\netcoreapp3.1\Operators_Henderson_Bobby.AssemblyInfo.cs
+C:\Users\bobby.henderson\source\repos\Operators_Henderson_Bobby\obj\Debug\netcoreapp3.1\Operators_Henderson_Bobby.csproj.CoreCompileInputs.cache
+C:\Users\bobby.henderson\source\repos\Operators_Henderson_Bobby\obj\Debug\netcoreapp3.1\Operators_Henderson_Bobby.dll
+C:\Users\bobby.henderson\source\repos\Operators_Henderson_Bobby\obj\Debug\netcoreapp3.1\Operators_Henderson_Bobby.pdb
+C:\Users\bobby.henderson\source\repos\Operators_Henderson_Bobby\obj\Debug\netcoreapp3.1\Operators_Henderson_Bobby.genruntimeconfig.cache
